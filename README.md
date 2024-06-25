@@ -5,6 +5,10 @@
 
 This project aims to predict the resale prices of Singapore flats using HDB data and machine learning techniques. The data undergoes extensive preprocessing, including outlier handling and categorical feature encoding. Various regression models were tested to select the best performer. The user-friendly Streamlit application allows users to input features and receive real-time predictions, enhancing the understanding of the housing market. Deployed on Render, the app ensures easy access and smooth performance, empowering users to make informed decisions about flat resale prices in Singapore.
 
+## App
+
+https://singapore-flat-resale-price-prediction-1-4jv7.onrender.com/
+
 ## Objective
 
 The objective of this project is to develop a robust and accurate machine learning model to predict the resale prices of Singapore Housing Development Board (HDB) flats. By leveraging historical resale data and advanced data processing techniques, we aim to create a user-friendly web application that provides real-time predictions. This application is intended to help potential buyers, sellers, and real estate professionals make informed decisions based on reliable price predictions, ultimately contributing to a better understanding of the Singapore real estate market.
